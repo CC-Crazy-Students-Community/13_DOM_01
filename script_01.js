@@ -31,5 +31,4 @@ let tagArr = document.getElementsByTagName( "p" );
 for ( let i = 0; i < tagArr.length; i ++ ) {
     tagArr[ i ].style.color = "red";
 }
-
 // ändert die Farbe der Schrift in allen <p> - Elements;
